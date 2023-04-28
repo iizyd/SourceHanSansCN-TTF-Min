@@ -1,14 +1,19 @@
 ## 简介
 
-- 精简版思源字体，含思源宋体
-- 精简了 ttf 和 otf 两个版本
+- 精简版思源字体，含 思源宋体、思源黑体
+- 精简了 ttf(思源黑体) 和 otf(思源宋体) 两个版本
 - 包含基础常用的中文、英文字符和符号
 - 可用于 web 端、pdf 等
     
 
 ## 目录
 * min-output: 压缩精简后的字体文件，可以直接用
+    - SourceHanSansSC-NormalMin.ttf —— 4.2M (思源黑体)
+    - SourceHanSerifCN-LightMin.otf —— 4.7M (思源宋体-细)
+    - SourceHanSerifCN-RegularMin.otf —— 2.7M (思源宋体)
 * source-file: 字体的原始文件，可以自行重新压缩使用，包含 `ttf` 和 `otf` 两个版本
+    - otf: SourceHanSerifCN (思源宋体 - 原字体 11M 左右)
+    - ttf: SourceHanSansSC (思源黑体 - 原字体 20M 左右)
 
 ## 使用的提取工具 `fonttools-pyftsubset` 
 * `fonttools-pyftsubset` 支持 `ttf` 和 `otf` 的转换
