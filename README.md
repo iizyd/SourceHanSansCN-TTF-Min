@@ -12,9 +12,9 @@
 | 名称 | 文件 | 原始 | 精简后 | 下载 |
 |------|---------------------------|---------|-----------|--------|
 | 思源黑体 Regular |SourceHanSansSC-Regular.ttf| 19M | 1.9M | [下载](https://github.com/iizyd/SourceHanSansCN-TTF-Min/raw/main/dist/ttf-思源黑体/SourceHanSansSC-Regular.ttf)  |
-| 思源宋体 Regular |SourceHanSerifCN-Regular.otf| 11M | 1.2M | [下载](https://github.com/iizyd/SourceHanSansCN-TTF-Min/raw/main/dist/ttf-思源黑体/SourceHanSerifCN-Regular.otf)  |
-| 阿里巴巴普惠体 Regular |AlibabaPuHuiTi-3-55-Regular.ttf| 8.5M | 858KB | [下载](https://github.com/iizyd/SourceHanSansCN-TTF-Min/raw/main/dist/ttf-思源黑体/AlibabaPuHuiTi-3-55-Regular.ttf)  |
-| 阿里巴巴普惠体 Regular |AlibabaPuHuiTi-3-55-Regular.otf| 7.4M | 782KB | [下载](https://github.com/iizyd/SourceHanSansCN-TTF-Min/raw/main/dist/ttf-思源黑体/AlibabaPuHuiTi-3-55-Regular.otf)  |
+| 思源宋体 Regular |SourceHanSerifCN-Regular.otf| 11M | 1.2M | [下载](https://github.com/iizyd/SourceHanSansCN-TTF-Min/raw/main/dist/ttf-思源宋体/SourceHanSerifCN-Regular.otf)  |
+| 阿里巴巴普惠体 Regular |AlibabaPuHuiTi-3-55-Regular.ttf| 8.5M | 858KB | [下载](https://github.com/iizyd/SourceHanSansCN-TTF-Min/raw/main/dist/ttf%2Botf阿里巴巴普惠体/AlibabaPuHuiTi-3-55-Regular.ttf)  |
+| 阿里巴巴普惠体 Regular |AlibabaPuHuiTi-3-55-Regular.otf| 7.4M | 782KB | [下载](https://github.com/iizyd/SourceHanSansCN-TTF-Min/raw/main/dist/ttf%2Botf阿里巴巴普惠体/AlibabaPuHuiTi-3-55-Regular.otf)  |
 
 表格仅展示了已精简的各字体 Regular 字重，方便下载。
 
